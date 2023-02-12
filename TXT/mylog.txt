@@ -2,4 +2,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 10 L03 Github Related
+ZCZC W00 42 L01 Regularly check SCELE for forum updates or latest announcements
+ZCZC W00 150 L02 3 credits worth of class session
+ZCZC W00 10 L03 Initial set up for OS231 Repo
+ZCZC W00 8 L04 Deploy the course initial github page
+ZCZC W00 60 L05 approximate amount for doing quiz + study past years examples
+ZCZC W00 80 L09 Read 50 slides of Silberschatz 1st chapter slide
