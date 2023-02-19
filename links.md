@@ -19,7 +19,7 @@ a:hover {
   color: white;
 }
 </style>
-<span style="color:white; font-weight:bold; font-size:larger;">By Eugenius Mario Situmorang</span>
+<span style="color:white; font-weight:bold; font-size:larger;">By </span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
