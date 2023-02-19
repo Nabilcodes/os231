@@ -5,12 +5,8 @@ permalink: /LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+1. [One](https://www.youtube.com/watch?v=F-gskSl4pwQ)<br>
+YT : how to write a bash script
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [Two](https://www.youtube.com/watch?v=F-gskSl4pwQ)<br>
+YT : Learning Awk is essential for linux users
