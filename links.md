@@ -18,3 +18,13 @@ It's important to recognize what commands that would often used perhaps in day-t
 50 Examples of sed commands usage.
 It's important to demonstrate what sed commands are capable of.
 
+### 4. [ [Article] Compile C Program With GCC Compiler on Bash](https://developerinsider.co/compile-c-program-with-gcc-compiler-on-bash-on-ubuntu-on-windows-10/)
+A step-through guide on how to write a C program (using nano) and compile it using gcc.
+It's important to know the prerequisite to compile a C program and how to manipulate it using the available tools (nano, vim)
+
+### 5. [ [Article] How to Tar A File in Linux Using Command Line](https://www.cyberciti.biz/faq/how-to-tar-a-file-in-linux-using-command-line/)
+A collection of ordered and guided instruction on how to make a tar file out of a file/directory in linux using the Bash shell.
+It's important because there are a lot of command to be used and not so understandable-at-first-sight syntax, so a guide on how to use the commands is really useful.
+
+
+
