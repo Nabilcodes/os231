@@ -25,3 +25,9 @@ ZCZC W02 150 L09 Assignment
 ZCZC W02 40 L22 difficulty with making tarball command, compiling c programs
 ZCZC W02 20 L31 install some packages
 ZCZC W02 15 L64 help a friend having technical issues
+
+ZCZC W02 40 L01 Regularly check SCELE for forum updates or latest announcements
+ZCZC W02 200 L02 4 credits worth of class session
+ZCZC W02 80 L09 Assignment 
+ZCZC W02 10 L22 difficulty with making tarball command, compiling c programs
+ZCZC W02 5 L64 help a friend having technical issues
