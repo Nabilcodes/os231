@@ -26,5 +26,9 @@ It's important to know the prerequisite to compile a C program and how to manipu
 A collection of ordered and guided instruction on how to make a tar file out of a file/directory in linux using the Bash shell.
 It's important because there are a lot of command to be used and not so understandable-at-first-sight syntax, so a guide on how to use the commands is really useful.
 
+### 6. [ [Article] How To Use GPG to Encrypt and Sign Messages](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)
+Introduction and tutorial about how to use the GNU Privacy Guard.
+It's relevant to have more knowledege about what GPG is and how to make the most of them to our interest.
+
 
 
