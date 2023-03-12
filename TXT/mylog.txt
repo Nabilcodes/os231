@@ -31,3 +31,8 @@ ZCZC W03 200 L02 4 credits worth of class session
 ZCZC W03 80 L09 Assignment 
 ZCZC W03 10 L22 difficulty with making tarball command, compiling c programs
 ZCZC W03 5 L64 help a friend having technical issues
+
+ZCZC W03 10 L01 Regularly check SCELE for forum updates or latest announcements
+ZCZC W03 25 L09 Assignment 
+ZCZC W03 10 L22 difficulty with making tarball command
+ZCZC W03 8 L64 get help from a friend beacuse I'm having technical issues
