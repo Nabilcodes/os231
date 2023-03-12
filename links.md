@@ -30,5 +30,9 @@ It's important because there are a lot of command to be used and not so understa
 Introduction and tutorial about how to use the GNU Privacy Guard.
 It's relevant to have more knowledege about what GPG is and how to make the most of them to our interest.
 
+### 7. [ [Source Code] Source code for The Linux Programming Interface](https://man7.org/tlpi/code/index.html)
+A page listing the source code used in the book titled "The Linux Programming Interface".
+It's important because we're learning the linux programming interface.
+
 
 
