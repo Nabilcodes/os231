@@ -34,5 +34,9 @@ It's relevant to have more knowledege about what GPG is and how to make the most
 A page listing the source code used in the book titled "The Linux Programming Interface".
 It's important because we're learning the linux programming interface.
 
+### 8. [ [Video] How Computer Memory Works](https://www.youtube.com/watch?v=p3q5zWCw8J4)
+A video how a memory concept would work in operating system.
+It's important to know how memory technically work in operating system.
+
 
 
