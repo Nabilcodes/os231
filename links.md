@@ -38,5 +38,9 @@ It's important because we're learning the linux programming interface.
 A video how a memory concept would work in operating system.
 It's important to know how memory technically work in operating system.
 
+### 9. [ [Article] What is Shared Memory?](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/shm/what-is-shm.html#:~:text=Shared%20memory%20is%20a%20feature,shared%20area%20can%20access%20it.)
+An article about shared memory concept in linux.
+It's important for further review about the concept.
+
 
 
