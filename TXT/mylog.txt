@@ -42,3 +42,8 @@ ZCZC W05 200 L02 4 credits worth of class session
 ZCZC W05 80 L09 Assignment 
 ZCZC W05 10 L22 difficulty with making tarball command, compiling c programs
 ZCZC W05 12 L64 get help from a friend beacuse I'm having technical issues
+
+ZCZC W06 20 L01 Regularly check SCELE for forum updates or latest announcements
+ZCZC W06 200 L02 4 credits worth of class session
+ZCZC W06 20 L09 Assignment 
+ZCZC W06 5 L64 get help from a friend beacuse I'm having technical issues
